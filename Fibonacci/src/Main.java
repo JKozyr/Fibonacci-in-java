@@ -1,5 +1,5 @@
-class fibonaci {
-    void PrintingFibonaci() {
+class fibonacci {
+    void PrintingFibonacci() {
         System.out.println("Ciąg Fibonaciego");
         int first_Number = 0;
         System.out.println(first_Number);
@@ -16,7 +16,7 @@ class fibonaci {
 }
 public class Main {
     public static void main(String[] args) {
-        fibonaci fibonaci1 = new fibonaci();
-        fibonaci1.PrintingFibonaci();
+        fibonacci fibonacci1 = new fibonacci();
+        fibonacci1.PrintingFibonacci();
         }
     }
